@@ -1,0 +1,25 @@
+.title{
+    margin-left: 50px;
+}
+
+.marginintro{
+    background-color: mediumspringgreen;
+    border: 10px solid black;
+    width: 300px;
+    margin: 50px;
+    padding: 10px;
+
+}
+
+.newrow{
+    background-color: lightblue;
+    overflow: auto;
+}
+
+.floating{
+    float: right;
+}
+
+.myclear{
+    clear: right;
+}
